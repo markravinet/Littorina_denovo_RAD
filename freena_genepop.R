@@ -4,7 +4,7 @@
 
 rm(list = ls())
 library(diveRsity)
-source("~/source/custom_diversity_09052014.R")
+source("~/source/custom_diversity.R")
 
 args <- commandArgs(TRUE)
 infile <- args[1]
